@@ -1,8 +1,9 @@
 # Todo-React-Tailwind
 
-<p> educational project ToDo List</p> 
+educational project ToDo List
 
 ### technology
 
 - React
 - Tailwind CSS
+- state - useState hook
