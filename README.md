@@ -1,9 +1,8 @@
 # Todo-React-Tailwind
 
-## educational project ToDo 
+<p> educational project ToDo List</p> 
 
 ### technology
 
 - React
 - Tailwind CSS
-
