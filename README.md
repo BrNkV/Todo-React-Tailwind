@@ -7,3 +7,7 @@ educational project ToDo List
 - React (Vite)
 - Tailwind CSS
 - state - useState hook
+
+
+scripts 
+ - npm run dev
