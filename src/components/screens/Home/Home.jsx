@@ -34,25 +34,10 @@ const Home = () => {
         setTodos([...todos].filter(t => t.id !== id))
     }
 
-    const addTodo = (title) => {
-        setTodos([
-            {
-                id: new Date(),
-                title,
-                isCompleted: false,
-            },
-            ...todos
-        ])
-    }
-
-    window.addTodo = addTodo;
-
-    // console.log(todos);
-
     return (
         <div className="text-white w-4/5 mx-auto">
             <h1 className="text-2xl font-bold text-center mb-10">ToDo React Tailwind</h1>
-            {data.map((todo) => (
+            {todos.map((todo) => (
                 <ToDoItem
                     key={todo.id}
                     todo={todo}
@@ -60,7 +45,7 @@ const Home = () => {
                     deleteTodo={deleteTodo}
                 />
             ))}
-            <CreateTodoField addTodo={addTodo} />
+            <CreateTodoField setTodos={setTodos} />
         </div>
     );
 }
