@@ -4,6 +4,6 @@ educational project ToDo List
 
 ### technology
 
-- React
+- React (Vite)
 - Tailwind CSS
 - state - useState hook
