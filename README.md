@@ -11,3 +11,7 @@ educational project ToDo List
 
 scripts 
  - npm run dev
+  
+
+
+[fast view link "ToDo React Tailwind (vite build)]([https://link](https://everybarry.github.io/Todo-React-Tailwind/dist/))
