@@ -13,5 +13,5 @@ scripts
  - npm run dev
   
 
-
-[fast view link "ToDo React Tailwind (vite build)]([https://link](https://everybarry.github.io/Todo-React-Tailwind/dist/))
+### fast view link "ToDo React Tailwind (vite build)
+[everybarry.github.io/Todo-React-Tailwind/dist/](https://everybarry.github.io/Todo-React-Tailwind/dist/)
