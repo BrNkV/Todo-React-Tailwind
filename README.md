@@ -14,4 +14,4 @@ scripts
   
 
 ### fast view link "ToDo React Tailwind (vite build)
-[everybarry.github.io/Todo-React-Tailwind/dist/](https://everybarry.github.io/Todo-React-Tailwind/dist/)
+[BrNkV.github.io/Todo-React-Tailwind/dist/](https://brnkv.github.io/Todo-React-Tailwind/dist/)
